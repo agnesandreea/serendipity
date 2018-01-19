@@ -8,7 +8,7 @@ if($password === likeariver) {
 echo 'x';
 }
 
-if ($password !== likeariver) {
+if ($password !=== likeariver) {
 echo 'y';
 }
 

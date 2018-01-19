@@ -1,6 +1,3 @@
-<html>
-<head></head>
-<body>
 <?php
 $password = $_POST['password'];
 
@@ -13,5 +10,4 @@ echo 'y';
 }
 
 ?>
-</body>
-</html>
+

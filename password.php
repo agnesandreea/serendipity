@@ -1,10 +1,10 @@
 <html>
-<head>Special</head>
+<head></head>
 <body>
-<?
+<?php
 $password = $_POST['password'];
 
-if($password === likeariver) {
+if ($password === likeariver) {
 echo 'x';
 }
 

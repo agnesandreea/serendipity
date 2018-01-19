@@ -1,13 +1,19 @@
+<html>
+  <head></head>
+  <body>
+    
 <?php
-$password = $_POST['password'];
+$right = $_POST['password'];
 
-if ($password == likeariver) {
+if ($right == likeariver) {
 echo 'x';
 }
 
-if ($password !== likeariver) {
+if ($right !== likeariver) {
 echo 'y';
 }
 
 ?>
 
+  </body>
+</html>

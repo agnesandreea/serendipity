@@ -2,7 +2,7 @@
 <head>Special</head>
 <body>
 <?
-$age = $_POST['password'];
+$password = $_POST['password'];
 
 if($password === likeariver) {
 echo 'x';
